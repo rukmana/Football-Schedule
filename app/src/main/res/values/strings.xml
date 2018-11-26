@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Football Match Schedule</string>
+    <string name="favorite">favorite</string>
+    <string name="detail_match">Detail Match</string>
+    <string name="detail_Player">Detail Player</string>
+    <string name="search">Search</string>
+    <string name="matches">Matches</string>
+    <string name="teams">Teams</string>
+
+
+    <string name="vs">Vs</string>
+    <string name="goals">Goals</string>
+    <string name="shoot">Shoot</string>
+    <string name="lineups">Lineups</string>
+    <string name="goals_keeper">Goals Keeper</string>
+    <string name="defend">Defend</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Substitutes</string>
+    <string name="weight">Weight(Kg)</string>
+    <string name="height">Height(M)</string>
+
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>Scottish Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+    <string name="title_activity_detail_team">DetailTeamActivity</string>
+
+</resources>
